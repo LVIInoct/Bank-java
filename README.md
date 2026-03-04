@@ -1,2 +1,1 @@
-// all run in java
-// idk i was stupid at the time im making this
+At the time this was made (also in 2024-2025) I was trying out all pillas of OOP, so it is not my cleanest or most effective code. No tempo que isso foi feito (2024-2025) eu estava tentando implementar todos os pilares de POO, então não é o meu código mais limpo ou eficiente. 
